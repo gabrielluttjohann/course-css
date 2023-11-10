@@ -1,0 +1,13 @@
+p {
+  text-align: center;
+  text-decoration: none;
+  text-transform: capitalize; /* Uppercase and Lowercase too */
+  text-indent: 50px;
+  letter-spacing: 5px;
+  line-height: 2.8;
+  word-spacing: 15px;
+  
+  /* direction: rtl;
+  unicode-bidi: bidi-override;
+   */
+}

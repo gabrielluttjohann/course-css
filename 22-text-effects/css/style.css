@@ -1,0 +1,28 @@
+
+.box {
+  width: 40%;
+  height: auto;
+
+  background-color: white;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2), 6px 20px 20px rgba(0, 0, 0, 0.19);
+}
+
+.reduced {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.box:hover .reduced  {
+  white-space: normal;
+  height: auto;
+}
+
+.align-center {
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  height: 160px;
+}

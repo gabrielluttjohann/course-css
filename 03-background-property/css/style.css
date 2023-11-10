@@ -1,0 +1,15 @@
+.background-exemple {
+  /*
+  WITHOUT SHORT-HAND 
+  background-color: palegoldenrod;
+  background-image: url(../img/pic2.jpg);
+  background-repeat: no-repeat;
+  background-position: center; 
+  
+  WITH SHORT HAND */
+  background: gray url("../img/pic2.jpg") no-repeat center;
+
+  /* Others */
+  background-size: cover;
+  height: 300px;
+}

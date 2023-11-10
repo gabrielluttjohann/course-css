@@ -1,0 +1,38 @@
+h1 {
+  background-color: black;
+  text-align: center;
+  border-radius: 30px;
+  color: white;
+
+  /* 
+  PADDING PROPERTIES 
+  padding-top: 50px;
+  padding-right: 70px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  
+  SHORT HAND: */
+  padding: 50px 70px 20px 10px;
+}
+
+#to-bottom-100 {
+  margin-bottom: 100px;
+}
+
+.button {
+  background-color: palegreen;
+  color: black;
+  border-radius: 20px;
+  margin-left: 33%;
+  text-decoration: none;
+
+  /* Paddings */
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.button:hover {
+  background-color: paleturquoise;
+}

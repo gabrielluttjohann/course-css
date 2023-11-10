@@ -1,0 +1,8 @@
+h1 {
+  /* more utilized border types: solid, dotted and dashed */
+  border-top: 5px solid palevioletred;
+  border-left: 5px solid palegreen; 
+  border-right: 5px solid powderblue;
+  border-bottom: 5px solid papayawhip;
+  border-radius:  10px;
+}

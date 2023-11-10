@@ -1,0 +1,7 @@
+#gradient {
+  width: 100%;
+  height: 300px;
+  background-image: linear-gradient(to right, lightblue, blueviolet, blue);
+  /* background-image: radial-gradient( lightblue, blueviolet, blue); */
+}
+

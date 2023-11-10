@@ -1,0 +1,19 @@
+h1 {
+  background-color: black;
+  color: white;
+
+  /* 
+  MARGIN PROPERTIES: 
+  margin-top: 30px;
+  margin-right: 70px;
+  margin-bottom: 150px;
+  margin-left: 20px;
+  
+  SHORT HAND: */
+  margin: 30px 70px 150px 20px;
+}
+
+p {
+  margin-bottom: 60px;
+  margin-left: 20px;
+}

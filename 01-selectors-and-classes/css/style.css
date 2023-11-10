@@ -1,0 +1,19 @@
+* {
+    padding: 20px;
+}
+body {
+    background-color: aliceblue;
+}
+
+h1, p {
+    color: blue;
+}
+
+.center {
+    text-align: center;
+}
+
+#test {
+    color: blueviolet;
+    background-color: aquamarine;
+}

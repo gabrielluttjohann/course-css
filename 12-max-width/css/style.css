@@ -1,0 +1,12 @@
+.ex1 {
+  border: 5px solid palegreen;
+
+  width: 800px;
+
+}
+
+.ex2 {
+  border: 5px solid paleturquoise;
+
+  max-width: 800px;
+}
